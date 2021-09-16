@@ -48,6 +48,7 @@ public class Program {
 					}
 					chessMatch.replacePromotedPiece(type);
 				}
+				//xu
 				
 				
 			} catch (ChessException e) {
